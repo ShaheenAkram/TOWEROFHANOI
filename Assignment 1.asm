@@ -154,5 +154,4 @@ PrintBC:
 	lw $a0, 0($sp)
 	addi $sp, $sp, 4
 	j hanoi2
-
 	
